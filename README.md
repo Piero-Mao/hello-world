@@ -1,3 +1,3 @@
 # hello-world
-testing  for readme
-just testing 
+hi guys 
+all is ok 
